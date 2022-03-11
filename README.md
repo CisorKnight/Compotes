@@ -1,11 +1,8 @@
-⚠ This app is being rewritten to simplify installation for end-users. The work is ongoing in the [rewrite](https://github.com/Orbitale/Compotes/tree/rewrite) branch.
+| ⚠ WARNING ⚠ | 
+| --- |
+| This app is being **entirely rewritten** to simplify installation for end-users.<br>You can check the work in progress in the [`rewrite`](https://github.com/Orbitale/Compotes/tree/rewrite) branch, with the new README.<br>The PHP-based app (in the `main` branch) is **unmaintained**, as well as the online preview. |
 
 ---
-
-![](https://github.com/Orbitale/compotes/workflows/Docker%20Image/badge.svg)
-![](https://github.com/Orbitale/compotes/workflows/Node.js/badge.svg)
-![](https://github.com/Orbitale/compotes/workflows/PHP/badge.svg)
-
 
 🍎 Compotes 🍏
 =============
